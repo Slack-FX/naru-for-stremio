@@ -1,0 +1,20 @@
+{
+  "id": "org.naru.torrent",
+  "version": "1.0.0",
+  "name": "NaruTorrent TV",
+  "description": "Streams Naruto content from a local torrent file.",
+  "resources": [
+    "catalog",
+    "stream",
+    "meta"
+  ],
+  "types": [
+    "tv"
+  ],
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "narucannon"
+    }
+  ]
+}
